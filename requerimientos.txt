@@ -1,0 +1,13 @@
+pip install fbchat
+pip install colorama
+pip install stdiomask
+pip install tkinter
+pip install instabot
+pip install instagram_private_api
+pip install linkedin_api
+pip install smtplib
+pip install ssl
+pip install twilio
+pip install tweepy
+pip install ngrok
+pip install flask
